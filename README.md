@@ -35,15 +35,7 @@ both the code and the shop floor it runs on.
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-#### 🏭 [mes-system-bot](https://github.com/Jumpman001/mes-system-bot)
-Lightweight MES for pipe production. It covers production stages, raw materials, lab and QC data.
-
-`aiogram 3` `FastAPI` `PostgreSQL` `Cloud Run`
-
-</td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 #### 📡 [tender_monitor](https://github.com/Jumpman001/tender_monitor)
 Watches 7 tender sources for large-diameter pipe projects. It sends AI summaries, digests and deadline alerts.
@@ -51,7 +43,7 @@ Watches 7 tender sources for large-diameter pipe projects. It sends AI summaries
 `Python` `Scraping` `Claude API` `Telegram`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 #### 🌐 [kompozit-ta](https://github.com/Jumpman001/kompozit-ta)
 Corporate website of the factory. It has 3 languages and is built for international tender committees.
